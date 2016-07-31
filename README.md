@@ -12,7 +12,6 @@ Scrum Master Tool.
 ### How to get started ###
 
 ```
-#!shell
 
 cd drawstat
 
@@ -23,10 +22,9 @@ pip install -r requirements/dev.txt
 ```
 
 
-run tipboard 
+run tipboard
 
 ```
-#!python
 
 tipboard runserver 2222
 
@@ -37,7 +35,6 @@ http://tipboard.readthedocs.org/en/latest/configuration.html
 run main script
 
 ```
-#!python
 
 python main.py
 ```
